@@ -21,7 +21,7 @@ Additional tabs in this business performance report include:
 Each tab provides focused, actionable insights to support data-driven decision-making.
 
 ### Project Steps: ###
-1. Download relevant data from Kaggle (https://www.kaggle.com/datasets/coder846204/store-data)
+1. Download relevant data from Kaggle.com
 2. Data validation and cleaning using Power Query
 3. Data visualization by using Power BI to create interactive dashboards
 4. Upload all project related data to GitHub and publish on GitHub Pages
